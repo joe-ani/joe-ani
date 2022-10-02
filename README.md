@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joe-ani
 - 👀 I’m interested in full stack web dev
-- 🌱 I’m currently learning <h1>Javascript</h1>
+- 🌱 I’m currently learning... <h1 color= "yellow">Javascript</h1>
 - 💞️ I’m looking to collaborate on any exciting project's
 - 📫 How to reach me ... 
 
