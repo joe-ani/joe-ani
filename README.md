@@ -1,4 +1,4 @@
--  <h2>👋Hi, I’m @joe-ani</h2>
+-  <h2>👋Hi, I’m @joseph ani</h2>
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Javascript🚀
 - 💞️ I’m looking to collaborate on any exciting project's
