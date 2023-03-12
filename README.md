@@ -13,8 +13,8 @@
     <h2>Projects</h2>
     <ul>
       <li><a href="https://github.com/yourusername/projectname">Amazon Clone</a>: I built an Amazon Clone using ReactJS</li>
-      <li><a href="https://github.com/yourusername/projectname">Flappy Bird Game</a>: A fun Flappy Bird Clone i made using HTML CSS and JavaScript</li>
-      <li><a href="https://github.com/yourusername/projectname">IQ Quest</a>: A ReactJS web Application to test Your IQ By answering General Questions.</li>
+      <li><a href="https://github.com/joe-ani/Flappy-Bird-Game">Flappy Bird Game</a>: A fun Flappy Bird Clone i made using HTML CSS and JavaScript</li>
+      <li><a href="https://github.com/joe-ani/quiz-quest-react-project">IQ Quest</a>: A ReactJS web Application to test Your IQ By answering General Questions.</li>
     </ul>
     <h2>Education and Expriences</h2>
     <ul>
