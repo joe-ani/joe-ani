@@ -1,5 +1,5 @@
   <h1>About Me</h1>
-     ![Frontend Developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Froshan-raut-6b28341a0&psig=AOvVaw2DElUWc5IoHK9_kOlSNmwT&ust=1678728442542000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIijzvn01v0CFQAAAAAdAAAAABAF)
+    ![image](https://user-images.githubusercontent.com/105864048/224562076-ef5720d0-69b7-4c06-8df7-0e4853f1b99a.png)
     <p>Hello! My name is Joseph Ani, and I'm a frontend developer based in [Your Location]. I'm passionate about creating beautiful, intuitive, and performant user interfaces that enhance the user experience.</p>
     <h2>Skills</h2>
     <ul>
