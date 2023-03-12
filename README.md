@@ -4,11 +4,11 @@
     <h2>Skills</h2>
     <ul>
       <li>Proficient in HTML, CSS, JavaScript, and related web technologies</li>
-      <li>Experienced with React.js, Vue.js, and other frontend frameworks</li>
+      <li>Experienced with React.js, Next.js, and other frontend frameworks</li>
       <li>Knowledgeable in UI/UX design principles and practices</li>
       <li>Experienced with version control using Git and GitHub</li>
-      <li>Familiar with backend technologies such as Node.js and Express.js</li>
       <li>Skilled in problem-solving, debugging, and troubleshooting</li>
+      <li>Familiar with backend technologies such as Node.js and Express.js</li>
     </ul>
     <h2>Projects</h2>
     <ul>
