@@ -1,5 +1,5 @@
   <h1>About Me</h1>
-  <img src=["https://user-images.githubusercontent.com/105864048/224562108-6dc5a9a8-95e3-4962-94c7-d1721d8ea22d.png](https://github.com/joe-ani/image-gallery/blob/main/images/Front%20End%20Developer.png?raw=true)"  />
+  <img src="https://github.com/joe-ani/image-gallery/blob/main/images/Front%20End%20Developer.png?raw=true"  />
     <p>Hello! My name is Joseph Ani, and I'm a frontend developer based in Lagos Nigeria. I'm passionate about creating beautiful, intuitive, and performant user interfaces that enhance the user experience.</p>
     <h2>Skills</h2>
     <ul>
